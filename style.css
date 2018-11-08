@@ -1,0 +1,62 @@
+div {
+  text-align: center
+  width: 300px;
+  padding: 25px;
+  margin: 25px;
+}
+
+td {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(70,70,70);
+  font-family: 'Roboto', serif;
+  color: rgb(150,150,150);
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: rgb(64,64,64);
+}
+
+li {
+  text-decoration: none;
+  color: rgb(150,150,150);
+  text-align: left;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(70,70,70);
+
+}
+
+.card1 {
+    background-color: moccasin;
+    border-radius: 5%;
+    box-shadow: 3px 5px
+}
+
+#profile {
+  border-radius: 5%;
+  border: 2px solid black;
+}
+
+
+.card {
+  background-color: moccasin;
+  border-radius: 5%;
+  box-shadow: 3px 5px
+}
+
+
+
